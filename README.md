@@ -1,4 +1,4 @@
-# Descacheo-financing-fee
+# Desacpple-financing-fee
 Tool used to integrate Pricing'Apis with diff. pricing v2
 
 # Emulación request search de deduccion hacia el scope deseado:
